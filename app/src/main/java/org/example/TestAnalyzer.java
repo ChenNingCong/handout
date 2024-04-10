@@ -1,7 +1,7 @@
 package org.example;
 
 public class TestAnalyzer {
-    public Boolean bad() {
-        return null;
-    }
+  public Boolean bad() {
+    return true;
+  }
 }

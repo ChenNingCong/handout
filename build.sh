@@ -1,3 +1,4 @@
+./gradlew clean
 # format code
 ./gradlew :app:spotlessApply
 # generating documents
